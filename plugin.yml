@@ -1,0 +1,5 @@
+name: ChunkBorder
+author: Ayzrix
+version: 1.0.0
+main: Ayzrix\ChunkBorder\Main
+api: 3.0.0
